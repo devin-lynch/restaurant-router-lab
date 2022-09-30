@@ -1,7 +1,7 @@
 export default function Home() {
     return (
         <div>
-            Home
+            <h1>Welcome to Taqueria Jalisco!</h1>
         </div>
     )
 }
